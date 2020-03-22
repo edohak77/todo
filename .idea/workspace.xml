@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17cb0925-eb5f-433e-a357-40443c01b235" name="Default Changelist" comment="project finished" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZQwY724yOrU7V7Q0omiR9fpfEm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/todo-list-item" />
+      <recent name="$PROJECT_DIR$/src/components/todo-list" />
+      <recent name="$PROJECT_DIR$/src/components/search-panel" />
+      <recent name="$PROJECT_DIR$/src/components/item-status-filter" />
+      <recent name="$PROJECT_DIR$/src/components/app-header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17cb0925-eb5f-433e-a357-40443c01b235" name="Default Changelist" comment="" />
+      <created>1584784674896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584784674896</updated>
+      <workItem from="1584784698595" duration="2379000" />
+      <workItem from="1584790176171" duration="35938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="project finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="673" key="#ESLint" timestamp="1584801216813">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="59" width="800" height="673" key="#ESLint/0.28.1366.740@0.28.1366.740" timestamp="1584801216813" />
+    <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584785430101">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.740@0.28.1366.740" timestamp="1584785430101" />
+    <state x="384" y="203" width="588" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584812364738">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="384" y="203" width="588" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1366.740@0.28.1366.740" timestamp="1584812364738" />
+    <state x="416" y="147" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584811531138">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="416" y="147" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1366.740@0.28.1366.740" timestamp="1584811531138" />
+    <state x="308" y="88" width="740" height="615" key="#run" timestamp="1584785493860">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="308" y="88" width="740" height="615" key="#run/0.28.1366.740@0.28.1366.740" timestamp="1584785493860" />
+    <state x="248" y="28" width="860" height="736" key="CommitChangelistDialog2" timestamp="1584896164055">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="248" y="28" width="860" height="736" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1584896164055" />
+    <state x="466" y="156" width="447" height="480" key="FileChooserDialogImpl" timestamp="1584896125786">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="466" y="156" width="447" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1584896125786" />
+    <state x="536" y="293" key="Github.ShareDialog" timestamp="1584896109735">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="536" y="293" key="Github.ShareDialog/0.28.1366.740@0.28.1366.740" timestamp="1584896109735" />
+    <state width="1343" height="176" key="GridCell.Tab.0.bottom" timestamp="1584883535210">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1343" height="176" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1584883535210" />
+    <state width="1343" height="176" key="GridCell.Tab.0.center" timestamp="1584883535210">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1343" height="176" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1584883535210" />
+    <state width="1343" height="176" key="GridCell.Tab.0.left" timestamp="1584883535210">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1343" height="176" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1584883535210" />
+    <state width="1343" height="176" key="GridCell.Tab.0.right" timestamp="1584883535210">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1343" height="176" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1584883535210" />
+    <state x="172" y="33" key="SettingsEditor" timestamp="1584812814454">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="172" y="33" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1584812814454" />
+    <state x="347" y="177" key="run.anything.popup" timestamp="1584808734594">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="347" y="177" key="run.anything.popup/0.28.1366.740@0.28.1366.740" timestamp="1584808734594" />
+  </component>
+</project>
